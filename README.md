@@ -1,4 +1,4 @@
-# EmbeddedDistributedGeneticAlgorithm
+# EmbeddedDistributedGeneticAlgorithms
 
 This is the source code of our project "A proposal of embedded distributed genetic algorithm for low-power, low-cost and low-size-memory devices". 
 
